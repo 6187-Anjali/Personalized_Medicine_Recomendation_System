@@ -1,2 +1,2 @@
-<h3>Personalized Medicine Recommendation System</h3>
+<h2>Personalized Medicine Recommendation System</h2>
 
